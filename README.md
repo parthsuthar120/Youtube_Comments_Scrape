@@ -1,2 +1,2 @@
 # Youtube_Comments_Scrape
-Scraping youtube and displaying comments
+Youtube_comment_scrape.ipynb file contains fetching and displaying of **youtube comments** with the help of **Selenium** to automate web browser and **chromedriver.exe**
